@@ -1,0 +1,13 @@
+*
+!.gitattributes
+!.gitignore
+!bin/
+!bin/*.fmu
+!CITATION.bib
+!LICENSE
+!README.md
+!test/
+!test/*.mdl
+!test/run_fmu_tests.m
+!test/results/
+!test/results/*gitkeep
